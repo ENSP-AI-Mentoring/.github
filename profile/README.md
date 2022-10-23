@@ -14,4 +14,4 @@ We are an organization of young engineers and pipo students who are committed to
 * [Drive](https://drive.google.com/drive/folders/1Ql9afRElUF-LVzpvrfNuNDqYP_PWnnlj?usp=sharing) : This folder contains meeting reports and presentations made so far. It is only available to members of the organization.
 
 
-* [Public Suggestion Box](https://forms.gle/Gu4EgWbp8RtXCPgf8) : This form allows you to make anonymous suggestions for group activities  anonymous suggestion box : allow for new perspectives and ways of thinking, give a voice to those who feel disenfranchised, promote active participation, shed light on a dishonest or illegal practices.
+* [Public Suggestion Box](https://forms.gle/Gu4EgWbp8RtXCPgf8) : This form allows you to make anonymous suggestions for group activities  anonymous suggestion box : allow for new perspectives and ways of thinking, give a voice to those who feel disenfranchised, promote active participation.
